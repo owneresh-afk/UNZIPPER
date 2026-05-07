@@ -6,4 +6,4 @@ unrar-cffi==0.2.2
 humanize==4.9.0
 aiofiles==23.2.1
 python-dotenv==1.0.0
-httpx>=0.27.0
+httpx~=0.25.2
