@@ -4,7 +4,7 @@ OWNER_ID = 8731647972
 BOT_NAME = "UnZipper Pro"
 BOT_VERSION = "2.0.0"
 
-MAX_FILE_SIZE = 500 * 1024 * 1024  # 50MB
+MAX_FILE_SIZE = 50 * 1024 * 1024  # 50MB
 TEMP_DIR = "/tmp/unzipper_sessions"
 
 SUPPORTED_FORMATS = [
